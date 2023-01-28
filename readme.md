@@ -18,3 +18,8 @@ Steps:
 The result from  **_melody_generator.py_** and **_melody_comparing.py** will be stored in output folder for melody comparison and can be heared here:
 
 
+
+
+
+https://user-images.githubusercontent.com/87424679/215295000-4a7a1473-1be2-4be0-976a-9539ad701644.mp4
+
